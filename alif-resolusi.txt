@@ -3,3 +3,4 @@ ALIF RESOLUSI
 - Konsisten belajar github 2x seminggu
 - Konsisten belajar android 2x seminggu
 - Konsisten Baca buku minimal 1x seminggu
+- Membuat app android
